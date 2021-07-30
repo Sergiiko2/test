@@ -219,7 +219,7 @@
 }
 
 #container2 {
-  padding: 130px 0 0 165px;
+  padding: 120px 0 0 50px;
 }
 
 #text2 {
@@ -348,10 +348,6 @@
   padding: 20px 0 10px 0;
 }
 
-.priora {
-  padding: 75px 0 0 0;
-}
-
 .color3 {
   color: #ffffff;
   width: 300px;
@@ -368,5 +364,9 @@
 
 .color4 {
   color: #c7b299;
+}
+
+#hand {
+  padding: 0 0 0 50px;
 }
 /*# sourceMappingURL=main.css.map */
