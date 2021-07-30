@@ -349,7 +349,7 @@
 }
 
 .priora {
-  padding: 33px 0 0 0;
+  padding: 75px 0 0 0;
 }
 
 .color3 {
@@ -364,5 +364,9 @@
 .background3 {
   background: #111111;
   padding: 50px 0 50px 0;
+}
+
+.color4 {
+  color: #c7b299;
 }
 /*# sourceMappingURL=main.css.map */
